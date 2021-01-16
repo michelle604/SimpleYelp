@@ -1,4 +1,4 @@
-# Yelp Clone 
+# Simple Yelp
 
 ## Michelle Chia-Jui Hung
 
